@@ -1,7 +1,7 @@
-import { aiLog, notify, world } from "@aifivem/lib/server";
-import { createLogger } from "@aifivem/lib/shared";
+import { aiLog, notify, world } from "@aicore8/lib/server";
+import { createLogger } from "@aicore8/lib/shared";
 import { Locale, ResourceName } from "common";
-import { isWeather } from "@aifivem/shared";
+import { isWeather } from "@aicore8/shared";
 import type { Result } from "./result";
 import { commitControls } from "../content";
 

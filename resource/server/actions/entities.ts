@@ -1,4 +1,4 @@
-import { coordsOf, optionalExport } from "@aifivem/lib/server";
+import { coordsOf, optionalExport } from "@aicore8/lib/server";
 import { Locale } from "common";
 import { actionLog } from "../actionLog";
 import { deleteEntities } from "../entities";

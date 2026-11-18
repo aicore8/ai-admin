@@ -1,4 +1,4 @@
-import { notify, onServerEvent, player } from "@aifivem/lib/client";
+import { notify, onServerEvent, player } from "@aicore8/lib/client";
 import { Locale } from "common";
 import { EVENTS } from "common/admin";
 

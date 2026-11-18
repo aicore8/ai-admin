@@ -1,4 +1,4 @@
-import { addCommand, isOnline } from "@aifivem/lib/server";
+import { addCommand, isOnline } from "@aicore8/lib/server";
 import { Locale } from "common";
 import { actions } from "../actions";
 import { id } from "../commandParams";

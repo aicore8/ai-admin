@@ -1,4 +1,4 @@
-import { fuel, nearestVehicleTo, notify, plateOf } from "@aifivem/lib/server";
+import { fuel, nearestVehicleTo, notify, plateOf } from "@aicore8/lib/server";
 import { Locale } from "common";
 import { actionLog } from "../actionLog";
 import type { Result } from "./result";

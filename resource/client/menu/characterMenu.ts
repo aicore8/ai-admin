@@ -1,5 +1,5 @@
-import { MENU_BACK } from "@aifivem/shared";
-import { input, menu } from "@aifivem/lib/client";
+import { MENU_BACK } from "@aicore8/shared";
+import { input, menu } from "@aicore8/lib/client";
 import { Locale } from "common";
 import { run } from "../runAction";
 

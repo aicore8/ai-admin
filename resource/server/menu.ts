@@ -4,9 +4,9 @@ import {
   isOnline,
   onClientCallback,
   world,
-} from "@aifivem/lib/server";
-import { fail, isRecord, readId, readInt, readText } from "@aifivem/lib/shared";
-import { ADMIN } from "@aifivem/shared";
+} from "@aicore8/lib/server";
+import { fail, isRecord, readId, readInt, readText } from "@aicore8/lib/shared";
+import { ADMIN } from "@aicore8/shared";
 import {
   EVENTS,
   isMenuAction,

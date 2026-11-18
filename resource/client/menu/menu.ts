@@ -1,4 +1,4 @@
-import { MENU_BACK } from "@aifivem/shared";
+import { MENU_BACK } from "@aicore8/shared";
 import {
   callAction,
   input,
@@ -8,7 +8,7 @@ import {
   optionalExport,
   triggerServerCallback,
   waypoint,
-} from "@aifivem/lib/client";
+} from "@aicore8/lib/client";
 import { Locale } from "common";
 import { EVENTS, toPlayerEntries, type MenuAction } from "common/admin";
 import { noclip, setNoclip } from "../noclip/toggle";

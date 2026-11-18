@@ -4,7 +4,7 @@ import {
   notify,
   online,
   resourceExport,
-} from "@aifivem/lib/server";
+} from "@aicore8/lib/server";
 import { Locale } from "common";
 import { actionLog } from "../actionLog";
 import type { Result } from "../actions/result";

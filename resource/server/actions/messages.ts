@@ -1,4 +1,4 @@
-import { isOnline, notify } from "@aifivem/lib/server";
+import { isOnline, notify } from "@aicore8/lib/server";
 import { Locale } from "common";
 import { EVENTS } from "common/admin";
 import { actionLog } from "../actionLog";

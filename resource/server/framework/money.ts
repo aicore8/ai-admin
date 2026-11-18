@@ -1,4 +1,4 @@
-import { characters, isOnline, resourceExport } from "@aifivem/lib/server";
+import { characters, isOnline, resourceExport } from "@aicore8/lib/server";
 import { Locale } from "common";
 import { actionLog } from "../actionLog";
 import type { Result } from "../actions/result";

@@ -1,5 +1,5 @@
-import { entityCoords } from "@aifivem/lib/server";
-import { distance, type Vec3 } from "@aifivem/lib/shared";
+import { entityCoords } from "@aicore8/lib/server";
+import { distance, type Vec3 } from "@aicore8/lib/shared";
 
 export type EntityKind = "vehicles" | "peds" | "objects";
 

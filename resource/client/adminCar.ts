@@ -2,8 +2,8 @@ import {
   entityFromNetId,
   getVehicleProps,
   onServerCallback,
-} from "@aifivem/lib/client";
-import { readId } from "@aifivem/lib/shared";
+} from "@aicore8/lib/client";
+import { readId } from "@aicore8/lib/shared";
 import { EVENTS, type AdminCarRead } from "common/admin";
 
 /** /admincar: the vehicle's model name (the server cannot read archetype names) and look, read on this client. */

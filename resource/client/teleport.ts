@@ -3,7 +3,7 @@ import {
   onServerEvent,
   player,
   waypoint,
-} from "@aifivem/lib/client";
+} from "@aicore8/lib/client";
 import { Locale } from "common";
 import { EVENTS, toTeleportPoint, type TeleportPoint } from "common/admin";
 import { noclipHints } from "./noclip/hints";

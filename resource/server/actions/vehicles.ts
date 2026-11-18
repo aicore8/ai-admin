@@ -11,9 +11,9 @@ import {
   vehicleKeys,
   vehicleOf,
   vehicleType,
-} from "@aifivem/lib/server";
-import { normalizePlate } from "@aifivem/lib/shared";
-import { type DeleteByPlateResult, VEHICLE_BAGS } from "@aifivem/shared";
+} from "@aicore8/lib/server";
+import { normalizePlate } from "@aicore8/lib/shared";
+import { type DeleteByPlateResult, VEHICLE_BAGS } from "@aicore8/shared";
 import { Locale } from "common";
 import { actionLog } from "../actionLog";
 import { content } from "../content";

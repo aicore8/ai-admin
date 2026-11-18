@@ -1,4 +1,4 @@
-import { inventory, notify } from "@aifivem/lib/server";
+import { inventory, notify } from "@aicore8/lib/server";
 import { Locale } from "common";
 import { actionLog } from "../actionLog";
 import { playerLabel } from "../playerName";

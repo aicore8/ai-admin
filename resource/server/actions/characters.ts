@@ -5,8 +5,8 @@ import {
   notify,
   online,
   resourceExport,
-} from "@aifivem/lib/server";
-import { ADMIN, type CharacterTarget } from "@aifivem/shared";
+} from "@aicore8/lib/server";
+import { ADMIN, type CharacterTarget } from "@aicore8/shared";
 import { Locale } from "common";
 import { actionLog } from "../actionLog";
 import { coreError, findCitizen } from "../citizen";

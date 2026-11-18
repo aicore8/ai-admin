@@ -6,8 +6,8 @@ import {
   triggerClientCallback,
   vehicleKeys,
   vehicleOf,
-} from "@aifivem/lib/server";
-import type { AdoptVehicleResult } from "@aifivem/shared";
+} from "@aicore8/lib/server";
+import type { AdoptVehicleResult } from "@aicore8/shared";
 import { Locale } from "common";
 import { EVENTS, toAdminCarRead } from "common/admin";
 import { actionLog } from "../actionLog";

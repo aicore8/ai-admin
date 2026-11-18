@@ -1,5 +1,5 @@
-import { characters, online, resourceExport } from "@aifivem/lib/server";
-import type { CharacterResult } from "@aifivem/shared";
+import { characters, online, resourceExport } from "@aicore8/lib/server";
+import type { CharacterResult } from "@aicore8/shared";
 import type { Result } from "./actions/result";
 
 const core = resourceExport("ai-core");
